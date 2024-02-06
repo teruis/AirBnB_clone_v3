@@ -1,6 +1,5 @@
 # 0x05. AirBnB clone - RESTful API
 
----
 ### Concepts
 
 _For this project, we expect you to look at these concepts:_
@@ -74,10 +73,7 @@ _For this project, we expect you to look at these concepts:_
 
 
 ---
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/02078cd7f0573885c85a225c7436584a5afea1f9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240205T180439Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9fb736d8c5b040168bd8482dc95115976e08b315536b61334733b68fecc28fe4)
-
-
-
+(https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/02078cd7f0573885c85a225c7436584a5afea1f9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240206T193932Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dac2bd07d9849aa25f20624b0bd58caaa53b403625eee4094fdbfe1a53b7c966)
 
 
 
